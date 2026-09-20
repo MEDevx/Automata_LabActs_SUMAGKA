@@ -15,12 +15,14 @@ This activity involves the design and implementation of a Non-Deterministic Fini
 ### Written Output
 
 Below is the documentation detailing the state transition tables and NFA diagram for the program.
-![Bond paper with NFA diagrams and state transition table](Lab1_NFA\Image\paper.jpe)
+
+<img src="Lab1_NFA/Image/paper.jpe" width="500" alt="Bond paper with NFA diagrams and state transition table">
 
 ### Program Output
 
-The following screenshot demonstrate the terminal execution of the Java code.
-![CCommentRecognizer VSCode Output](Lab1_NFA\Image\output.png)
+The following screenshot demonstrates the terminal execution of the Java code.
+
+<img src="Lab1_NFA/Image/output.png" width="600" alt="CCommentRecognizer VSCode Output">
 
 ## Laboratory Activity 2: DFA Minimization
 
@@ -28,7 +30,7 @@ The following screenshot demonstrate the terminal execution of the Java code.
 
 Below is the documentation detailing the initial state transition tables, the equivalence partitioning minimization processes, and the final minimized DFA diagrams for DFA 3 (Ends with "10") and DFA 4 (Contains "00").
 
-![Bond paper with DFA 3 and DFA 4 diagrams](Lab2_DFAMini\Image\dfa3-4_diagam.jpe)
+<img src="Lab2_DFAMini/Image/dfa3-4_diagam.jpe" width="500" alt="Bond paper with DFA 3 and DFA 4 diagrams">
 
 ### Program Outputs
 
@@ -36,16 +38,16 @@ The following screenshots demonstrate the terminal execution of the Python scrip
 
 #### DFA 1 (Sir Josh's Example 1)
 
-![DFA 1 VSCode Output](Lab2_DFAMini\Image\dfa1_output.png)
+<img src="Lab2_DFAMini/Image/dfa1_output.png" width="600" alt="DFA 1 VSCode Output">
 
 #### DFA 2 (Sir Josh's Example 2)
 
-![DFA 2 VSCode Output](Lab2_DFAMini\Image\dfa2_output.png)
+<img src="Lab2_DFAMini/Image/dfa2_output.png" width="600" alt="DFA 2 VSCode Output">
 
 #### DFA 3 (Example 3: Ends with "10")
 
-![DFA 3 VSCode Output](Lab2_DFAMini\Image\dfa3_output.png)
+<img src="Lab2_DFAMini/Image/dfa3_output.png" width="600" alt="DFA 3 VSCode Output">
 
 #### DFA 4 (Example 4: Contains "00")
 
-![DFA 4 VSCode Output](Lab2_DFAMini\Image\dfa4_output.png)
+<img src="Lab2_DFAMini/Image/dfa4_output.png" width="600" alt="DFA 4 VSCode Output">
